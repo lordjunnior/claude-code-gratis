@@ -1,11 +1,9 @@
 <div align="center">
 
-<h1>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/free-claude-code-wordmark-light.svg">
-    <img src="assets/free-claude-code-wordmark-dark.svg" alt="Claude Code Grátis - Lord Junnior" width="610">
-  </picture>
-</h1>
+<br />
+<h1>⚡ Claude Code Grátis</h1>
+<p><strong>Orquestrador de IA Local e Modelos Gratuitos mantido por Lord Junnior</strong></p>
+<br />
 
 [![Licença: AGPL v3](https://img.shields.io/badge/Licen%C3%A7a-AGPL_v3-2e7d32.svg?style=for-the-badge)](https://github.com/lordjunnior/claude-code-gratis/blob/main/LICENSE)
 [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
